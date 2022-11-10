@@ -1,6 +1,11 @@
 # fibabanka-springboot-bootcamp-project
 @author berklimoncu
 
+<h1>Project Hiearchy</h1>
+<h2>This repository includes 3 different kinds of projects: inventory, shopping & commerce </h2>
+<h3>inventory runs on port 8081</h3>
+<h3>shopping runs on port 8082</h3>
+<h3>commerce runs on port 8080</h3>
 
 <h2> Steps to run </h2>
 
