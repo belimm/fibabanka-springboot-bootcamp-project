@@ -121,5 +121,45 @@
 
  ><h2> 3. Commerce </h2>
 
+>3.1 Get All Categories
+<img width="729" alt="Pasted Graphic 22" src="https://user-images.githubusercontent.com/76854271/201108583-43fd38b1-e46e-4c58-bd0c-6ec524d3c282.png">
+
+
+>3.1 Get Products by categoryId
+<img width="741" alt="Pasted Graphic 24" src="https://user-images.githubusercontent.com/76854271/201108664-f90ffd6b-2761-4df8-a07b-783208722f50.png">
+
+>3.2 Get Product by productId
+<img width="733" alt="Pasted Graphic 25" src="https://user-images.githubusercontent.com/76854271/201108750-711753ee-5f1c-48d7-8a74-921293d0b2ea.png">
+
+>3.3 Add Cart with Header(key: “Customer-Name” value:”your name”) 
+<img width="740" alt="Pasted Graphic 26" src="https://user-images.githubusercontent.com/76854271/201108815-2f937993-9a2d-4485-924f-8a465b635cab.png">
+
+>3.4 Add CartProduct with CartId & ProductId
+<img width="737" alt="Pasted Graphic 27" src="https://user-images.githubusercontent.com/76854271/201108880-808afb41-31c1-4f8f-9bef-eb05fb17a880.png">
+
+>3.5 Remove CartProduct with cartId & productId
+
+>>Before Removing
+
+>> ![Pasted Graphic 28](https://user-images.githubusercontent.com/76854271/201108991-2c0573ad-17ab-4dc3-ac0f-fc0386b783a6.png)
+
+<img width="729" alt="Pasted Graphic 29" src="https://user-images.githubusercontent.com/76854271/201109325-5ea6e384-cea7-4ca5-986f-3e36cc7a879a.png">
+
+>>After Removing
+>> ![Pasted Graphic 30](https://user-images.githubusercontent.com/76854271/201109381-4a3941c7-66df-4ac5-9b98-2119b4654e5a.png)
+
+>3.6 Checkout by cartId
+
+>>3.6.1 If there is no Cart with given cartId
+>> <img width="739" alt="Pasted Graphic 31" src="https://user-images.githubusercontent.com/76854271/201109943-4438f3b3-dcc1-4c33-bf37-d75a14d93ba1.png">
+
+
+>>3.6.2 Checkout by cartId Successful
+>> <img width="731" alt="Pasted Graphic 32" src="https://user-images.githubusercontent.com/76854271/201109988-d704422f-a0cf-4cd5-b27b-e39888dc6869.png">
+
+
+>>3.7 Get Cart by CartId( as a queryParam: ‘cartId={cartId}’)
+>>3.7.1 If there is no Cart with given cartId
+>> <img width="738" alt="Pasted Graphic 33" src="https://user-images.githubusercontent.com/76854271/201110055-9f5d5a9c-75a9-4c09-a6a9-4c10ca2f765b.png">
 
 
